@@ -1,7 +1,12 @@
 aid: paccar
-url: https://raw.githubusercontent.com/api-evangelist/paccar/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/paccar/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.paccar.com
+description: >-
+  PACCAR is a global technology leader in the design, manufacture, and customer support
+  of premium light, medium, and heavy-duty trucks under the Kenworth, Peterbilt, and
+  DAF nameplates.
