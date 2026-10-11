@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "paccar",
+    "captured_at": "2026-10-11T192726",
+    "source_url": "https://www.paccar.com",
+    "source_type": "Website",
+    "file": "paccar-2026-10-11T192726.png",
+    "bytes": 531905,
+    "capture": "playwright-local"
+  }
+]
